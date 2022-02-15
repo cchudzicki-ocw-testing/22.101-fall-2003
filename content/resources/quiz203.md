@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: quiz203.pdf
-type: OCWFile
 uid: 63156aeb-0312-e66a-90ff-e228d6e8e8bb
 ---
