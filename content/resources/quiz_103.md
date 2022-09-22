@@ -5,6 +5,7 @@ file: /courses/22-101-applied-nuclear-physics-fall-2003/d797f3c2daba7dd34f6d3990
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
